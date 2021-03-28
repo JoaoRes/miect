@@ -1,0 +1,4 @@
+2) 0.1527, o primeiro metodo faz uma extimativa da probablidade, enquanto que o segundo testa 1000x tendo uma probablidade extremamente
+precisa para aquele teste 
+
+3)0.8503
